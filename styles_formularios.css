@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding:0 ;
+}
+
+#centrar{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+#FormBuscarTrabajo{
+    display: none;
+    width: 300px;
+    border: 1px solid red;
+    
+}
+#FormularioPersonal{
+    display:none ;
+    width: 300px;
+    border: 1px solid red;
+    
+}
+#FormularioSuscribirse{
+display:none ;
+width: 300px;
+border: 1px solid red;
+
+}
+form{
+    display: flex;
+    flex-direction: column;
+}
+label{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+input{
+    padding: 5px;
+   border-radius: 2px;
+   
+  
+    
+}
+
