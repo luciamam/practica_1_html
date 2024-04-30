@@ -14,7 +14,7 @@
     display: none;
     width: 300px;
     border: 1px solid red;
-    
+    background-color: peru;
 }
 #FormularioPersonal{
     display:none ;
